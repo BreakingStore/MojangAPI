@@ -33,6 +33,10 @@ dependencies {
 </project>
 ```
 
+## Download JAR
+[MojangApi.jar](https://github.com/NiotGGProjects/MojangAPI/releases/download/1.0/MojangApi.jar)
+[MojangApi-WhithDependencies.jar](https://github.com/NiotGGProjects/MojangAPI/releases/download/1%2C0/MojangApi-WhithDependencies.jar)
+
 ## Exemplo de uso da MojangAPI
 
 ```java
