@@ -4,9 +4,7 @@ import okhttp3.*;
 
 import java.io.IOException;
 
-public class Requester {
-
-    /**
+    /*
      * Class: Requester
      * Author: NiotGG
      * Version: 1.4
@@ -14,6 +12,8 @@ public class Requester {
      * Description: Requester Class
      * Copright NiotGG Projects
      */
+
+public class Requester {
 
     MediaType JSON
             = MediaType.parse("application/json; charset=utf-8");
