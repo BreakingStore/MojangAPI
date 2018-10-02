@@ -34,7 +34,7 @@ dependencies {
 ```
 
 ## Download JAR
-***Jar sem dependências: [MojangApi.jar](https://github.com/NiotGGProjects/MojangAPI/releases/download/1.0/MojangApi.jar)***
+***Jar sem dependências: [MojangApi.jar](https://github.com/NiotGGProjects/MojangAPI/releases/download/1%2C0/MojangApi.jar)***
 
 ***Jar com dependências: [MojangApi-WhithDependencies.jar](https://github.com/NiotGGProjects/MojangAPI/releases/download/1%2C0/MojangApi-WhithDependencies.jar)***
 
