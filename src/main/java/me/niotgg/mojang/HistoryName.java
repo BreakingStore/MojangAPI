@@ -7,15 +7,15 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class HistoryName {
-
-    /**
+    /*
      * Class: HistoryName
      * Author: NiotGG
      * Version: 1.0
      * Description: HistoryName Class
      * Copright NiotGG Projects
      */
+
+public class HistoryName {
 
     private List<String> keys = new ArrayList<>();
     private List<Long> values = new ArrayList<>();
