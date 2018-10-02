@@ -6,9 +6,7 @@ import org.json.JSONObject;
 
 import java.io.IOException;
 
-public class Mojang {
-
-    /**
+ /**
      * Main Class
      * Class: Mojang
      * Author: NiotGG
@@ -17,6 +15,8 @@ public class Mojang {
      * Description: Mojang Class
      * Copright NiotGG Projects
      */
+
+public class Mojang {
 
     public boolean isOnline() {
         JSONObject json;
