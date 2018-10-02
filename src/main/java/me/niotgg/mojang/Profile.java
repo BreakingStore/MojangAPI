@@ -7,15 +7,15 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.util.Base64;
 
-public class Profile {
-
-    /**
+    /*
      * Class: Profile
      * Author: NiotGG
      * Version: 1.0
      * Description: Profile Class
      * Copright NiotGG Projects
      */
+
+public class Profile {
 
     private String name;
     private String uuid;
